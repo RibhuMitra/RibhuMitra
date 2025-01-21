@@ -23,5 +23,3 @@ Welcome to my GitHub profile! I'm a **Web Developer** and **Machine Learning Eng
 - **Email:** ribhumitra30@gmail.com 
 
 ---
-
-Make sure to replace the placeholder links and details with your actual information!

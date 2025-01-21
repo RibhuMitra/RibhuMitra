@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a **Web Developer** and **Machine Learning Eng
 
 
 ## 📫 Let's Connect  
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/ribhu-mitra-1443b51b7/)   
+- **LinkedIn:** [Ribhu Mitra](https://linkedin.com/in/ribhu-mitra-1443b51b7/)   
 - **Email:** ribhumitra30@gmail.com 
 
 ---

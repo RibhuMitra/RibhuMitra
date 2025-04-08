@@ -6,12 +6,6 @@ Welcome to my GitHub profile! I'm a **Web** and **Cross Platform mobile App Deve
 
 ## 🔧 My Skillset  
 
-### 🌐 Web Development  
-- **Frontend:** React, Redux, HTML5, CSS, JavaScript (ES6+).  
-- **Backend:** Node.js, Express.js, RESTful APIs.  
-- **Database:** MongoDB, SQL.  
-- **Other Tools:** Git.
-
 ### 🌐 Cross Platform Mobile App Development  
 - **Frontend:** React Native(Expo), JavaScript (ES6+), TypeScript.  
 - **Backend:** Node.js, Express.js, Firebase, Supabase.  

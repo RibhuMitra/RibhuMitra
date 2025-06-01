@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Ribhu Ranjan Mitra
 
-Welcome to my GitHub profile!  
 I'm a **Native Android Developer** passionate about building scalable, high-performance mobile applications using modern technologies. I enjoy crafting seamless user experiences with **Jetpack Compose** and integrating powerful backend systems using **Spring Boot**. I also explore the intersection of mobile development and AI to solve real-world challenges intelligently.
 
 ---

@@ -1,23 +1,23 @@
-# 👋 Hi, I’m Ribhu Ranjan Mitra 
+👋 Hi, I’m Ribhu Ranjan Mitra
+Welcome to my GitHub profile!
+I'm a native Android Developer with a passion for building scalable, high-performance mobile applications and solving real-world problems using code, design, and AI. I specialize in modern Android development using Kotlin and Jetpack Compose, delivering seamless and intuitive user experiences backed by robust backend systems.
 
-Welcome to my GitHub profile! I'm a **Web** and **Cross Platform mobile App Developer** with a passion for solving problems through code and innovation. I love building scalable web and mobile applications, creating seamless user experiences, and exploring the potential of AI to tackle real-world challenges.  
+🔧 My Skillset
+📱 Android App Development
+Languages & Frameworks: Kotlin, Jetpack Compose, XML
 
----
+Backend: Spring Boot (Kotlin/Java)
 
-## 🔧 My Skillset  
+Databases: PostgreSQL, MySQL, Firebase (Firestore, Realtime DB), Supabase
 
-### 🌐 Cross Platform Mobile App Development  
-- **Frontend:** React Native(Expo), JavaScript (ES6+), TypeScript.  
-- **Backend:** Node.js, Express.js, Firebase, Supabase.  
-- **Database:** Firebase Cloud Store, Supabase, PostgreSQL, SQL.  
-- **Other Tools:** Git. 
+Cloud & Dev Tools: Firebase Auth, Supabase Auth, Git, REST APIs, Figma (UI Collaboration)
 
-### 🤖 Machine Learning  
-- **Languages/Tools:** Python, TensorFlow, scikit-learn, Pandas, NumPy.  
-- **Specializations:** Recommendation Systems, Predictive Modeling.   
+🤖 Artificial Intelligence & Machine Learning
+Languages & Tools: Python, TensorFlow, scikit-learn, Pandas, NumPy
+
+Specializations: AI Integration in Apps, Image Analysis, Recommendation Systems, Predictive Modeling
 
 
-## 📫 Let's Connect  
 - **LinkedIn:** [Ribhu Mitra](https://linkedin.com/in/ribhu-mitra-1443b51b7/)   
 - **Email:** ribhumitra30@gmail.com 
 

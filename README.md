@@ -1,55 +1,110 @@
 <div align="center">
 
-# Hi, I’m Ribhu Ranjan Mitra.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=280&section=header&text=Ribhu%20Ranjan%20Mitra&fontSize=80&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Backend%20Engineer%20%C2%B7%20System%20Architect%20%C2%B7%20DevOps%20Practitioner&descAlign=50&descAlignY=60&animation=fadeIn" alt="Ribhu Header" width="100%"/>
 
-### 🚀 Backend Engineer | Platform & DevOps
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Building+Scalable+Event-Driven+Architectures;Engineering+High-Performance+APIs;Orchestrating+Containers+with+Kubernetes;Solving+Complex+Problems+with+Data" alt="Typing SVG" />
+</a>
+
+<br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=111111&center=true&vCenter=true&width=500&lines=Architecting+Scalable+APIs;Automating+Infrastructure;Bridging+ML+and+Backend" alt="Typing SVG" />
+  <a href="https://linkedin.com/in/ribhu-mitra-1443b51b7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:ribhumitra30@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://your-portfolio-link.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
-[![](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ribhu-mitra-1443b51b7/)
-[![](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ribhumitra30@gmail.com)
-
----
-
-</div>
-
-## 👨‍💻 About Me
-
-I am a **Backend Engineer** passionate about designing high-throughput systems and scalable infrastructure. I move beyond simple CRUD applications to craft resilient **Microservices**, optimize database performance, and automate deployment pipelines.
-
-While I have a background in mobile development, my true expertise lies in the **server-side**—ensuring that the logic driving applications is secure, fast, and reliable. I leverage **FastAPI** and **Spring Boot** to build robust APIs and use **DevOps** practices to solve real-world architectural challenges.
-
----
-
-## 🔧 Technical Arsenal
-
-<div align="center">
-
-| **Core Backend** | **Infrastructure & DevOps** | **Data & Storage** |
-|:---:|:---:|:---:|
-| ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) | ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) | ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) |
-| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot) | ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) | ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) |
-| ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=timescaledb&logoColor=white) |
-
 </div>
 
 ---
 
-## ⚡ What I'm Building Now
-
-* **Geopolitical Conflict Prediction System:** An ML-integrated platform analyzing propaganda and conflict triggers.
-* **High-Performance API Gateway:** Implementing rate-limiting and security layers for microservices using Redis and Nginx.
-* **DevOps Pipelines:** Automating container orchestration to reduce deployment friction.
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <h2 style="margin-top: 0;">⚡ The System Core</h2>
+      <br />
+      <p>
+        I am a <b>Backend Engineer</b> obsessed with <i>latency</i>, <i>uptime</i>, and <i>scalability</i>. I don't just write code; I design the invisible engines that power modern applications.
+      </p>
+      <p>
+        Moving beyond the frontend, I found my passion in the <b>Server-Side</b>—architecting microservices, optimizing database queries, and automating infrastructure. Whether it's a high-frequency trading bot or a geopolitical conflict predictor, I build systems that are <b>resilient by design</b>.
+      </p>
+      <br />
+      <h3>🚀 Current Transmissions</h3>
+      <ul>
+        <li><b>Engineering:</b> A Geopolitical Conflict Prediction System (ML + Backend).</li>
+        <li><b>Learning:</b> Advanced Kubernetes orchestration & Service Mesh patterns.</li>
+        <li><b>Stack:</b> FastAPI, Docker, TimescaleDB, & Spring Boot.</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top">
+      <div align="center">
+        <br />
+        <img src="https://github-readme-stats.vercel.app/api?username=RibhuMitra&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="Ribhu's Stats" width="100%"/>
+        <br/><br/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RibhuMitra&layout=compact&theme=graywhite&hide_border=true&langs_count=6" alt="Top Langs" width="100%"/>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
+<h2 align="center">🔧 The Arsenal</h2>
+
 <div align="center">
-  
-📫 **Let's build scalable solutions together.**
+  <table>
+    <tr>
+      <td align="center" width="25%"><b>📡 Backend Core</b></td>
+      <td align="center" width="25%"><b>🏗 Infrastructure</b></td>
+      <td align="center" width="25%"><b>💾 Data Layer</b></td>
+      <td align="center" width="25%"><b>🛠 Languages</b></td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs" />
+        <br/>
+        <br/>
+        <img src="https://img.shields.io/badge/Microservices-111111?style=flat-square" />
+        <img src="https://img.shields.io/badge/REST_APIs-111111?style=flat-square" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,aws" />
+        <br/>
+        <br/>
+        <img src="https://img.shields.io/badge/CI%2FCD-111111?style=flat-square" />
+        <img src="https://img.shields.io/badge/Nginx-111111?style=flat-square" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase" />
+        <br/>
+        <br/>
+        <img src="https://img.shields.io/badge/TimescaleDB-111111?style=flat-square" />
+        <img src="https://img.shields.io/badge/SQLModel-111111?style=flat-square" />
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=py,cpp,java,git" />
+        <br/>
+        <br/>
+        <img src="https://img.shields.io/badge/Algorithms-111111?style=flat-square" />
+        <img src="https://img.shields.io/badge/System_Design-111111?style=flat-square" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-[<img src="https://img.shields.io/badge/Portfolio-Visit_Site-black?style=for-the-badge&logo=vercel&logoColor=white" />](https://your-portfolio-link.com)
+<br/>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  <br/>
+  <h3>📫 Ready to scale? <a href="mailto:ribhumitra30@gmail.com">Initialize Handshake.</a></h3>
 </div>

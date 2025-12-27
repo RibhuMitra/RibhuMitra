@@ -2,7 +2,7 @@
 
 # Hi, I’m Ribhu Ranjan Mitra.
 
-### 🚀 Backend Engineer | Platform & DevOps Enthusiast
+### 🚀 Backend Engineer | Platform & DevOps
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=111111&center=true&vCenter=true&width=500&lines=Architecting+Scalable+APIs;Automating+Infrastructure;Bridging+ML+and+Backend" alt="Typing SVG" />

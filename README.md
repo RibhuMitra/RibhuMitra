@@ -35,11 +35,3 @@ secondary_focus:
   - DevOps & Cloud-Native
   - Distributed Systems
 engineering_style: "Performance-first, production-minded"
-
-
-
-<div align="center"> <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Backend+%26+DevOps+Arsenal&align=center&titleAlign=center&fontSize=16&lineCount=3&theme=github_dark&line1=FastAPI,fastapi,00E5FF;Python,python,FFD43B;AsyncIO,python,5DADE2&line2=Docker,docker,2496ED;Kubernetes,kubernetes,326CE5;GitHub+Actions,githubactions,2088FF&line3=PostgreSQL,postgresql,4169E1;Redis,redis,DC382D;NGINX,nginx,009639" /> </div>
-
-
-
-<div align="center"> <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Leveling+Up&align=center&titleAlign=center&fontSize=16&theme=github_dark&line1=Kubernetes+Advanced,helm,0DB7ED;Ingress+Controllers,kubernetes,326CE5&line2=Distributed+Systems,apachekafka,231F20;Event-Driven+Architectures,rabbitmq,FF6600&line3=MLOps,mlflow,0194E2;Model+Serving,fastapi,00E5FF" /> </div>

@@ -1,12 +1,14 @@
 <div align="center">
 
-# ⚡ Ribhu
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=180&section=header&text=Ribhu&fontSize=48&fontColor=EAEAEA&animation=fadeIn" />
 
-### Backend Engineer • FastAPI • DevOps
+### 🚀 Backend Engineer • FastAPI • DevOps
 
-Building **scalable backend systems**  
-Designing **production-grade APIs**  
-Shipping **cloud-native infrastructure**
+<sub>Designing scalable systems · Shipping production-grade APIs · Automating infrastructure</sub>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=700&lines=FastAPI-first+Backend+Engineer;Async+APIs+%7C+Microservices+%7C+DevOps;Docker+%7C+Kubernetes+%7C+CI%2FCD;System+Design+%7C+Scalable+Architectures" />
 
 </div>
 
@@ -14,11 +16,7 @@ Shipping **cloud-native infrastructure**
 
 <div align="center">
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,kubernetes,postgres,redis,nginx,linux,git,githubactions&theme=dark" />
 
 </div>
 
@@ -26,24 +24,10 @@ Shipping **cloud-native infrastructure**
 
 ## 🧠 About Me
 
-I’m a **Backend Engineer** who enjoys turning ideas into **robust, scalable systems**.
-
-- 🚀 **FastAPI-first** backend developer  
-- ⚙️ DevOps-driven mindset — Docker → CI/CD → Kubernetes  
-- 🧩 Strong interest in **system design & distributed systems**  
-- 📦 I care about **performance, observability, and clean architecture**
-
-> _I don’t just build APIs — I build systems that survive production._
-
----
-
-## 🛠️ Core Stack
-
-```text
-Backend        → FastAPI, Python (Async)
-Databases      → PostgreSQL, MySQL
-Caching        → Redis
-Auth           → JWT, OAuth2
-DevOps         → Docker, Kubernetes, GitHub Actions
-Infra          → NGINX, Linux, Bash
-Architecture   → Microservices, Clean Architecture
+```yaml
+role: Backend Engineer
+focus:
+  - FastAPI & Async Python
+  - Scalable Backend Systems
+  - Cloud-Native & DevOps
+mindset: "Build systems that survive production"

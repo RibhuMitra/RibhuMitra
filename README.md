@@ -26,9 +26,9 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=RibhuMitra&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true" />
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=RibhuMitra&theme=github-dark&hide_border=true" />
 
 </div>
 

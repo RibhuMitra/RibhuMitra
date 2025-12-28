@@ -4,11 +4,11 @@
 
 ### 🚀 Backend Engineer • FastAPI • DevOps
 
-<sub>Designing scalable systems · Shipping production-grade APIs · Automating infrastructure</sub>
+<sub>Architecting scalable systems · Shipping production APIs · Automating infrastructure</sub>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=700&lines=FastAPI-first+Backend+Engineer;Async+APIs+%7C+Microservices+%7C+DevOps;Docker+%7C+Kubernetes+%7C+CI%2FCD;System+Design+%7C+Scalable+Architectures" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=500&color=00E5FF&center=true&vCenter=true&width=800&lines=FastAPI-first+Backend+Engineer;Async+Python+%7C+Microservices+%7C+Caching;Docker+%7C+Kubernetes+%7C+CI%2FCD;System+Design+%7C+Cloud-Native+Backends" />
 
 </div>
 
@@ -22,12 +22,16 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 Engineer Profile
 
 ```yaml
+name: Ribhu
 role: Backend Engineer
-focus:
-  - FastAPI & Async Python
-  - Scalable Backend Systems
-  - Cloud-Native & DevOps
-mindset: "Build systems that survive production"
+primary_stack:
+  - FastAPI
+  - Python (AsyncIO)
+  - PostgreSQL
+secondary_focus:
+  - DevOps & Cloud-Native
+  - Distributed Systems
+engineering_style: "Performance-first, production-minded"

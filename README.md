@@ -1,110 +1,81 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=BACKEND%20ENGINEER&fontSize=70&fontColor=ffffff&fontAlign=50&animation=fadeIn" alt="Header" />
+  
+  <code>⠠⠵  B U I L D I N G  ⠠⠵  S C A L A B L E  ⠠⠵  S Y S T E M S  ⠠⠵</code>
+  <br/><br/>
+  
+  <pre>
+      .       .
+    .:.       .:.
+  .::::.     .::::.
+    '::.     .::'    Nothing but 
+      '       '      C L O U D
+  </pre>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=280&section=header&text=Ribhu%20Ranjan%20Mitra&fontSize=80&fontColor=ffffff&fontAlign=50&fontAlignY=35&desc=Backend%20Engineer%20%C2%B7%20System%20Architect%20%C2%B7%20DevOps%20Practitioner&descAlign=50&descAlignY=60&animation=fadeIn" alt="Ribhu Header" width="100%"/>
+---
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Building+Scalable+Event-Driven+Architectures;Engineering+High-Performance+APIs;Orchestrating+Containers+with+Kubernetes;Solving+Complex+Problems+with+Data" alt="Typing SVG" />
+### <code>01. // ABOUT_ME</code>
+
+> **"Design is not just what it looks like and feels like. Design is how it works."**
+
+I am a **Backend Architect** focused on high-performance APIs and cloud-native infrastructure. I blend the precision of **DevOps** with the speed of **FastAPI**.
+
+* 🔴 **Focus:** Scalable Microservices & Event-Driven Architecture
+* ⚪ **Current:** Automating pipelines with GitHub Actions & K8s
+* ⚫ **Philosophy:** Clean Code • Minimal Overhead • Maximum Uptime
+
+---
+
+### <code>02. // TECH_STACK</code>
+
+| **C O R E** | **D E V O P S** | **C L O U D** |
+| :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=white) |
+| ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) | ![K8s](https://img.shields.io/badge/Kubernetes-000000?style=for-the-badge&logo=kubernetes&logoColor=white) | ![Google Cloud](https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=google-cloud&logoColor=white) |
+| ![PostgreSQL](https://img.shields.io/badge/Postgres-000000?style=for-the-badge&logo=postgresql&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-000000?style=for-the-badge&logo=terraform&logoColor=white) | ![Nginx](https://img.shields.io/badge/Nginx-000000?style=for-the-badge&logo=nginx&logoColor=white) |
+| ![Redis](https://img.shields.io/badge/Redis-D71921?style=for-the-badge&logo=redis&logoColor=white) | ![Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=github-actions&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white) |
+
+---
+
+### <code>03. // LATEST_DEPLOYMENTS</code>
+
+| PROJECT | STACK | STATUS |
+| :--- | :--- | :--- |
+| **[Microservice-Auth-Gateway](https://github.com/yourusername/project1)** | `FastAPI` `Oauth2` `Redis` | ![Status](https://img.shields.io/badge/LIVE-D71921?style=flat-square&logoColor=white) |
+| **[K8s-Cluster-Auto-Scaler](https://github.com/yourusername/project2)** | `Go` `Terraform` `AWS` | ![Status](https://img.shields.io/badge/MAINTAINED-white?style=flat-square&logoColor=black) |
+| **[Realtime-Chat-SocketIO](https://github.com/yourusername/project3)** | `Node` `Socket.io` `Docker` | ![Status](https://img.shields.io/badge/ARCHIVED-333333?style=flat-square&logoColor=white) |
+
+---
+
+### <code>04. // METRICS</code>
+
+<div align="center">
+
+<a href="https://github.com/yourusername">
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=graywhite&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=D71921&text_color=999999" />
 </a>
 
-<br/>
-
-<p align="center">
-  <a href="https://linkedin.com/in/ribhu-mitra-1443b51b7/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:ribhumitra30@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://your-portfolio-link.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
+<a href="https://github.com/yourusername">
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=graywhite&hide_border=true&bg_color=000000&title_color=ffffff&text_color=999999" />
+</a>
 
 </div>
 
 ---
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h2 style="margin-top: 0;">⚡ The System Core</h2>
-      <br />
-      <p>
-        I am a <b>Backend Engineer</b> obsessed with <i>latency</i>, <i>uptime</i>, and <i>scalability</i>. I don't just write code; I design the invisible engines that power modern applications.
-      </p>
-      <p>
-        Moving beyond the frontend, I found my passion in the <b>Server-Side</b>—architecting microservices, optimizing database queries, and automating infrastructure. Whether it's a high-frequency trading bot or a geopolitical conflict predictor, I build systems that are <b>resilient by design</b>.
-      </p>
-      <br />
-      <h3>🚀 Current Transmissions</h3>
-      <ul>
-        <li><b>Engineering:</b> A Geopolitical Conflict Prediction System (ML + Backend).</li>
-        <li><b>Learning:</b> Advanced Kubernetes orchestration & Service Mesh patterns.</li>
-        <li><b>Stack:</b> FastAPI, Docker, TimescaleDB, & Spring Boot.</li>
-      </ul>
-    </td>
-    <td width="40%" valign="top">
-      <div align="center">
-        <br />
-        <img src="https://github-readme-stats.vercel.app/api?username=RibhuMitra&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="Ribhu's Stats" width="100%"/>
-        <br/><br/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RibhuMitra&layout=compact&theme=graywhite&hide_border=true&langs_count=6" alt="Top Langs" width="100%"/>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-<h2 align="center">🔧 The Arsenal</h2>
-
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%"><b>📡 Backend Core</b></td>
-      <td align="center" width="25%"><b>🏗 Infrastructure</b></td>
-      <td align="center" width="25%"><b>💾 Data Layer</b></td>
-      <td align="center" width="25%"><b>🛠 Languages</b></td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs" />
-        <br/>
-        <br/>
-        <img src="https://img.shields.io/badge/Microservices-111111?style=flat-square" />
-        <img src="https://img.shields.io/badge/REST_APIs-111111?style=flat-square" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,aws" />
-        <br/>
-        <br/>
-        <img src="https://img.shields.io/badge/CI%2FCD-111111?style=flat-square" />
-        <img src="https://img.shields.io/badge/Nginx-111111?style=flat-square" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,supabase" />
-        <br/>
-        <br/>
-        <img src="https://img.shields.io/badge/TimescaleDB-111111?style=flat-square" />
-        <img src="https://img.shields.io/badge/SQLModel-111111?style=flat-square" />
-      </td>
-      <td align="center">
-        <img src="https://skillicons.dev/icons?i=py,cpp,java,git" />
-        <br/>
-        <br/>
-        <img src="https://img.shields.io/badge/Algorithms-111111?style=flat-square" />
-        <img src="https://img.shields.io/badge/System_Design-111111?style=flat-square" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
   <br/>
-  <h3>📫 Ready to scale? <a href="mailto:ribhumitra30@gmail.com">Initialize Handshake.</a></h3>
+  <code>CONNECT_WITH_ME</code><br/>
+  
+  <a href="https://linkedin.com/in/yourlinkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-D71921?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <br/><br/>
+  
+  <code>. . . . . . .</code>
 </div>
